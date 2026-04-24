@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**the-Luke1849/the-Luke1849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **the-Luke1849**, a backend chef.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Exploring new technologies
+- 💬 Ask me anything about code
+- 🐛 Bug hunter by night
+- 🎯 Goal: ship something useful every week
+- 👯 Looking to collaborate on open source
+
+## Tech
+
+`Next.js` `SQLite` `Docker` `Emacs`
+
+---
+
+_Merge commits make me sad._
